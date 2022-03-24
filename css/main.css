@@ -97,6 +97,10 @@
     height: 5rem;;
 }
 
+.img_cancha {
+    margin-top: -8rem;
+}
+
 .img_Sello-campeones {
     height: 10rem;
     margin-left: 3rem;
@@ -201,4 +205,8 @@ nav {
 
 .border_rounded {
     border-radius: 2rem;
+}
+
+.w_fit {
+    width: fit-content;
 }
