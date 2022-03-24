@@ -315,7 +315,7 @@ nav {
     margin-left: -2.5rem;
 }
 
-@media (max-width: 1291px) and (min-width: 1024px){
+@media (max-width: 1291px) {
     .img_hombre_bandera {
         height: 25rem;
     }
