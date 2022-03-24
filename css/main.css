@@ -391,3 +391,27 @@ nav {
         width: 21rem;
     }
 }
+
+@media (max-width:991px){
+    .img_logo{
+        height: 5rem;
+    }
+    .img_vigilado{
+        height: 6rem;
+    }
+    .nav_mobile{
+        border-color: #579E0E;
+        border-top-style: solid;
+    }
+    .img_Sello-campeones{
+        margin-top: -1.9rem;
+        margin-left: 0rem;
+    }
+    nav{
+        width: auto;
+    }
+    .container_nav {
+        margin-left: 0!important;
+        padding-left: 18rem;
+    }
+}
