@@ -55,6 +55,10 @@
     background-color: #137DEB;
 }
 
+.bg_blue_aqua{
+    background-color: #00D0E6;
+}
+
 .bg_blue_2 {
     background-color: #008091;
 }
@@ -103,6 +107,16 @@
 
 .img_vigilado {
     height: 5rem;;
+}
+
+.img_mensaje {
+    height: 18rem;
+}
+
+.img_balon_cronometro {
+    height: 18rem;
+    margin-left: 6rem;
+    margin-top: -5rem;
 }
 
 .img_cancha {
@@ -161,6 +175,12 @@ nav {
     margin-left: 17rem!important;
 }
 
+.container_seccion_informacion{
+    margin-top: 7rem;
+    width: 50rem;
+    height: 11rem;
+}
+
 .container_body {
     padding-top: 5.5rem;
 }
@@ -217,6 +237,18 @@ nav {
 }
 .p_s2 {
     font-size: 1.5rem;
+}
+
+.p_abre_cuenta {
+    font-size: 1.5rem;
+}
+
+.p_necesitas_informacion {
+    font-size: 1.9rem;
+}
+
+.p_chatea {
+    font-size: 2.5rem;
 }
 
 .p_s2_abre {
