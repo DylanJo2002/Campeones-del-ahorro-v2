@@ -1,0 +1,204 @@
+@font-face {
+    font-family: "Museo900";
+    src: url("../fonts/Museo900.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Museo700";
+    src: url("../fonts/Museo700.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Museo500";
+    src: url("../fonts/Museo500.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "MuseoSans-700";
+    src: url("../fonts/MuseoSans-700.otf") format("opentype");
+}
+@font-face {
+    font-family: "MuseoSans-500";
+    src: url("../fonts/MuseoSans-500.otf") format("opentype");
+}
+  
+  
+
+.bg_yellow {
+    background-color: #FFDD09;
+}
+
+.bg_mayan {
+    background-image: url('../img/background_inicio.jpg');
+}
+
+.bg_radiant_pt1 {
+    background: #5EA31E;
+    background: radial-gradient(#A9EE12, #5EA31E);
+}
+
+.bg_linearGradient {
+    margin: 0;
+    background: rgb(96,167,35);
+    background: linear-gradient(90deg, rgba(96,167,35,1) 0%, rgba(96,167,35,1) 11%, rgba(105,172,47,1) 11%, rgba(105,172,47,1) 22%, rgba(96,167,35,1) 22%, rgba(96,167,35,1) 33%, rgba(105,172,47,1) 33%, rgba(105,172,47,1) 44%, rgba(96,167,35,1) 44%, rgba(96,167,35,1) 55%, rgba(105,172,47,1) 55%, rgba(105,172,47,1) 66%, rgba(96,167,35,1) 66%, rgba(96,167,35,1) 77%, rgba(105,172,47,1) 77%, rgba(105,172,47,1) 88%, rgba(96,167,35,1) 88%, rgba(96,167,35,1) 100%);
+  }
+
+.bg_green {
+    background-color: #579E0E;
+}
+
+.bg_blue {
+    background-color: #137DEB;
+}
+
+
+.font_blue {
+    color: #0076EA;
+}
+
+.font_yellow {
+    color: #FFDD09;
+}
+
+
+.font_white {
+    color: #fff;
+}
+
+.font_blueAqua {
+    color: #008A9F;
+}
+
+.font_black {
+    color: black;
+}
+
+.museo_900 {
+    font-family: Museo900;
+}
+
+.museo_500 {
+    font-family: Museo500;
+}
+
+.museo_700 {
+    font-family: Museo700;
+}
+
+.museo_sans_700 {
+    font-family: MuseoSans-700;
+}
+
+.museo_sans_500 {
+    font-family: MuseoSans-500;
+}
+
+.img_vigilado {
+    height: 5rem;;
+}
+
+.img_Sello-campeones {
+    height: 10rem;
+    margin-left: 3rem;
+    margin-top: 2.5rem;
+}
+
+.img_Sello-campeones_s1 {
+    height: 14rem;
+    margin-top: -1.5rem;
+    z-index: -1;
+}
+
+.img_logo {
+    height: 4rem;
+}
+
+.img_balon {
+    margin-top: -5rem;
+    margin-right: -4rem;
+}
+
+.img_hombre_bandera {
+    height: 32rem;
+}
+
+.img_mano_app {
+    height: 30rem;
+    margin-left: -4rem;
+}
+
+.header-heigh {
+    height: 6rem;
+}
+
+nav {
+    width: 18rem;    
+    font-size: 1.1rem;
+}
+
+.nav_a:hover{
+    color: #0076EA;
+}
+
+.container_nav {
+    margin-left: 17rem!important;
+}
+
+.container_body {
+    padding-top: 5.5rem;
+}
+.container_s1 {
+    height: 35rem;
+}
+
+.container_gana_s1 {
+    margin-top: -1.6rem;
+}
+
+.container_logos_s1 {
+    width: 29rem!important;
+}
+
+.container_s2 {
+    width: 90%;
+    margin-top: 8rem;
+    height: 23rem;
+}
+
+.container_s1_yellow {
+    width: 32rem;
+}
+
+.container_p1 {
+    padding-bottom: 13rem;
+}
+
+.seccion_s2_col2 {
+	margin-left: -7rem;
+	margin-top: 3rem;
+}
+
+.container_abre_cuenta {
+    width: 25rem;
+    border-radius: 2rem;
+}
+
+.h3_s1{
+    font-size: 1.2rem;
+}
+
+.p_s2 {
+    font-size: 1.5rem;
+}
+
+.p_s2_abre {
+    font-size: 1.5rem;
+}
+
+.o_pasa_agina {
+    font-size: 1.4rem;
+}
+
+.border_rounded {
+    border-radius: 2rem;
+}
