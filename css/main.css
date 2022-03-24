@@ -314,3 +314,80 @@ nav {
     margin-top: -2rem;
     margin-left: -2.5rem;
 }
+
+@media (max-width: 1291px) and (min-width: 1024px){
+    .img_hombre_bandera {
+        height: 25rem;
+    }
+    .container_s1 {
+        height: 29rem;
+        width: 97%;
+    }
+    .container_s1_yellow {
+        width: 26rem;
+        padding-top: 0.5rem!important;
+        padding-bottom: 0.5rem!important;
+    }
+    .h3_s1 {
+        width: fit-content;
+        font-size: 1rem;
+    }
+    .h2_aprovecha {
+        font-size: 1.6rem;
+    }
+    .img_Sello-campeones_s1 {
+        height: 12rem;
+    }
+    .container_logos_s1 {
+        width: 23rem!important;
+    }
+    .img_win_online, .img_pasa_pagina {
+        height: 2.5rem;
+    }
+    .p_s2 {
+        font-size: 1.3rem;
+    }
+    
+    .p_s2_abre {
+        font-size: 1.3rem;
+    }
+    
+    .img_balon {
+        margin-top: -6rem;
+        margin-right: -3rem;
+    }
+    .h2_s3 {
+        font-size: 2.3rem;
+    }
+    
+    .container_s3_header {
+        height: 10rem;
+    }
+    
+    .img_silbato {
+        margin-left: -25rem;
+    }
+    .p_abre_cuenta {
+        font-size: 1.3rem;
+    }
+    .img_balon_cronometro {
+        height: 14rem;
+        margin-left: 5rem;
+        margin-top: -3rem;
+    }
+    .img_Sello-campeones {
+        height: 9rem;
+    }
+    .container_nav {
+        margin-left: 14.5rem!important;
+    }
+    .img_logo {
+        height: 3rem;
+    }
+    .seccion_s2_col2 {
+        margin-left: -5.5rem;
+    }
+    .container_abre_cuenta {
+        width: 21rem;
+    }
+}
