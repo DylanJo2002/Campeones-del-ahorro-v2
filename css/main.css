@@ -414,4 +414,11 @@ nav {
         margin-left: 0!important;
         padding-left: 18rem;
     }
+    .container_body{
+        padding-top: 0;
+    }
+    .container_s1 {
+        height: 29rem;
+        width: 100%;
+    }
 }
