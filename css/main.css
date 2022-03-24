@@ -421,4 +421,7 @@ nav {
         height: 60rem;
         width: 100%;
     }
+    .container_p1 {
+        padding-bottom: 40rem;
+    }
 }
