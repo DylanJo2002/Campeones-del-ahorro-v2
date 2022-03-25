@@ -384,6 +384,16 @@ nav {
     font-size: 1.5rem;
 }
 
+.container_desde_colombia {
+    margin-top: 7rem;
+}
+
+.img_balon_cronometro_p2 {
+    height: 19rem;
+    margin-left: 18rem;
+    margin-top: -6rem;
+}
+
 .owl-carousel .owl-item img{
     width: auto !important;
 }
@@ -464,6 +474,23 @@ nav {
         width: 21rem;
     }
 }
+
+@media (max-width: 1199px){
+    .h2_s3 {
+        padding-left: 8rem;
+    }
+    .img_trofeo {
+        margin-left: -23rem;
+        margin-top: 2rem;
+        height: 18rem;
+    }
+    .img_balon_cronometro_p2 {
+        height: 14rem;
+        margin-left: 16rem;
+        margin-top: -7rem;
+    }
+    
+} 
 
 @media (max-width:991px){
     .img_logo{
