@@ -603,6 +603,12 @@ nav {
     .container_seccion_informacion {
         width: 29rem;
     }
+    /*DISEÑO DE PÁGINA ABRIR CUENTA*/
+    .img_trofeo {
+        margin-left: 0rem;
+        margin-top: -6rem;
+        height: 8rem;
+    }
 }
 
 @media(max-width: 500px){
