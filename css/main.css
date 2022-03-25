@@ -474,6 +474,9 @@ nav {
 }
 
 @media(max-width: 500px){
+    .p_s2 {
+        font-size: 1rem;
+    }
     .p_logo {
         font-size: 0.5rem;
     }
@@ -490,7 +493,7 @@ nav {
     .container_nav {
         height: inherit;
        margin-left: 0!important;
-       padding-left: 6rem;
+       padding-left: 7rem;
    }
    .img_Sello-campeones {
     height: 5rem;
@@ -499,5 +502,86 @@ nav {
     }
     .nav_a{
         font-size: 0.7rem;
+    }
+    .container_s1_yellow {
+        width: 18rem;
+        z-index: 0;
+    }
+    .h2_aprovecha {
+        font-size: 1.1rem;
+    }
+    .img_Sello-campeones_s1 {
+        height: 12rem;
+    }
+    .container_s1 {
+        height: 51rem;
+    }
+    .img_hombre_bandera {
+        height: 15rem;
+    }
+    .img_mano_app{
+        height: 18rem;
+        margin-left: 0;
+    }
+    .container_p1 {
+        padding-bottom: 23rem;
+    }
+    .img_cancha {
+        margin-top: -2rem;
+    }
+    .img_balon {
+        height: 6rem;
+        margin-top: -7rem;
+        margin-right: -1rem;
+        margin-bottom: -7rem;
+    }
+    
+    .container_abre_cuenta {
+        width: 16rem;
+    }
+    .p_abre_tu_cuenta{
+        font-size: 1rem;
+    }
+    .h2_s3 {
+        font-size: 1.2rem;
+    }
+    .container_s3_header {
+        height: 8rem;
+    }
+    .img_silbato {
+        margin-left: -6.5rem;
+        margin-top: -5rem;
+        height: 5rem;
+    }
+    .m_top_8 {
+        margin-top: 6rem;
+    }
+    .container_s3_header {
+        height: 9rem;
+    }
+    .p_abre_cuenta {
+        font-size: 1rem;
+    }
+    .container_conoce {
+        width: 14rem;
+    }
+    .container_p2 {
+        padding-bottom: 5rem;
+    }
+    
+    .img_mensaje {
+        margin-top: -5.5rem;
+        height: 10rem;
+    }
+    .p_chatea {
+        font-size: 1.4rem;
+    }
+    .p_necesitas_informacion {
+        font-size: 0.9rem;
+    }
+    .container_seccion_informacion {
+        margin-top: 10rem;
+        width: 17rem;
+        height: 6rem;
     }
 }
