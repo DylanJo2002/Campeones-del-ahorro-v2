@@ -553,6 +553,12 @@ nav {
     .container_s2_p2 {
         height: 57rem;
     }
+    .bg_mayan {
+        background-image: url('../img/background_inicio_mobile.jpg');
+    }
+    .img_hombre_bandera {
+        height: 24rem;
+    }
 }
 
 @media (max-width:700px){
