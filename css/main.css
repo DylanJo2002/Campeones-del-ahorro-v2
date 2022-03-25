@@ -333,6 +333,35 @@ nav {
     margin-bottom: 1rem;
 }
 
+/*ESTILOS DE LA SEGUNDA PÁGINA ABRIR CUENTA*/
+.container_s2_p2 {
+    width: 90%;
+    margin-top: 1rem;
+    height: 39rem;
+}
+.img_celular_app {
+    height: 32rem;
+    margin-left: -4rem;
+    margin-top: 1rem;
+}
+
+.numero_paso_abrir {
+    height: 3.5rem;
+    width: 3.5rem;
+    border-radius: 1rem;
+    margin-right: 1.5rem;
+}
+
+.h2_maneja_dinero {
+    font-size: 2.5rem;
+}
+
+.container_pasos_s1_p2 {
+    margin-top: 4rem;
+    margin-left: -6rem;
+}
+
+
 .owl-carousel .owl-item img{
     width: auto !important;
 }
