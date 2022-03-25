@@ -458,6 +458,14 @@ nav {
     font-size: 2.5rem;
 }
 
+.container_p1_premios {
+    padding-bottom: 12rem;
+}
+
+.container_jugadas {
+    margin-top: -29rem;
+}
+
 .owl-carousel .owl-item img{
     width: auto !important;
 }
