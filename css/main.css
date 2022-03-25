@@ -723,6 +723,14 @@ nav {
         margin-top: -5rem;
         height: 6rem;
     }
+
+    /*Estilos página abre tu cuenta*/
+    .img_silbato_p2 {
+        height: 5rem;
+        margin-top: -7rem;
+        margin-right: -1rem;
+        margin-bottom: -9rem;
+    }
 }
 
 @media(max-width: 480px){
@@ -753,7 +761,7 @@ nav {
 
     /*ESTILOS PÁGINA 2*/
     .h2_maneja_dinero {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     .img_celular_app {
         height: 17rem;
