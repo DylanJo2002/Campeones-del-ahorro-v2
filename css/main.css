@@ -336,7 +336,6 @@ nav {
 /*ESTILOS DE LA SEGUNDA PÁGINA ABRIR CUENTA*/
 .container_s2_p2 {
     width: 90%;
-    margin-top: 1rem;
     height: 39rem;
 }
 .img_celular_app {
@@ -550,15 +549,40 @@ nav {
     nav {
         height: inherit;
     }
-    .container_s2_p2 {
-        height: 57rem;
-    }
     .bg_mayan {
         background-image: url('../img/background_inicio_mobile.jpg');
     }
     .img_hombre_bandera {
         height: 24rem;
     }
+    /*ESTILOS PAGINA 2*/
+    .container_s2_p2 {
+        height: 74rem;
+        padding-top: 4rem;
+    }
+    .img_celular_app {
+        height: auto;
+        margin-left: 0;
+        margin-top:1rem;
+    }
+    .container_pasos_s1_p2 {
+       margin-top: 2rem;
+       margin-left: 0;
+    }
+    .numero_paso_abrir{
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+    .row_s2_p2 {
+        height: auto!important;
+    }
+    .descarga_s1_p2 {
+        margin-top: 6rem;
+    }
+    .container_p1_p2 {
+        padding-bottom: 6rem;
+    }
+    
 }
 
 @media (max-width:700px){
@@ -712,6 +736,17 @@ nav {
         margin-left: -8.5rem;
         height: 5rem;
         margin-top: -5rem;
+    }
+
+    /*ESTILOS PÁGINA 2*/
+    .h2_maneja_dinero {
+        font-size: 1.5rem;
+    }
+    .img_celular_app {
+        height: 17rem;
+    }
+    .h2_descarga_p2 {
+        font-size: 2rem;
     }
 }
 
