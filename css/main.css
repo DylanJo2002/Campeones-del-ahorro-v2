@@ -500,11 +500,12 @@ nav {
         height: 6rem;
     }
     .nav_mobile{
+        height: 5rem;
         border-color: #579E0E;
         border-top-style: solid;
     }
     .img_Sello-campeones{
-        margin-top: -1.9rem;
+        margin-top: -0.3rem;
         margin-left: 0rem;
     }
     nav{
@@ -548,6 +549,9 @@ nav {
     }
     nav {
         height: inherit;
+    }
+    .container_s2_p2 {
+        height: 57rem;
     }
 }
 
