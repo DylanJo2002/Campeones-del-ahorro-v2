@@ -468,4 +468,36 @@ nav {
     .img_mensaje {
         margin-top: -10rem;
     }
+    nav {
+        height: inherit;
+    }
+}
+
+@media(max-width: 500px){
+    .p_logo {
+        font-size: 0.5rem;
+    }
+    .img_vigilado {
+        height: 5rem;
+    }
+    
+    .img_logo {
+        height: 3rem;
+    }
+    .nav_mobile {
+        height: 3rem;
+    }
+    .container_nav {
+        height: inherit;
+       margin-left: 0!important;
+       padding-left: 6rem;
+   }
+   .img_Sello-campeones {
+    height: 5rem;
+    margin-top: 0rem;
+    margin-left: -0.5rem;
+    }
+    .nav_a{
+        font-size: 0.7rem;
+    }
 }
