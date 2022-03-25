@@ -365,6 +365,25 @@ nav {
     margin-top: 8rem;
 }
 
+.img_trofeo {
+    margin-left: -30rem;
+    margin-top: 2rem;
+}
+
+.padding_desde_exterior {
+    padding-left: 7rem;
+}
+
+.container_img_item_p2 {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 0.6rem;
+}
+
+.p_giros_url {
+    font-size: 1.5rem;
+}
+
 .owl-carousel .owl-item img{
     width: auto !important;
 }
