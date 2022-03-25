@@ -23,6 +23,9 @@
 }
   
   
+.h_fit {
+    height: fit-content;
+}
 
 .bg_yellow {
     background-color: #FFDD09;
@@ -393,6 +396,68 @@ nav {
     margin-top: -6rem;
 }
 
+.container_p1_p2 {
+    padding-bottom: 13rem;
+}
+
+.img_silbato_p2 {
+    height: 8rem;
+    margin-top: -13rem;
+    margin-right: -3rem;
+    margin-bottom: -9rem;
+}
+
+/*ESTILOS DE LA PÁGINA DE PREMIOS*/
+
+.container_premios{
+    width: 24rem;
+}
+
+.tituloPremios {
+    margin-top: -13rem;
+}
+
+.h_inherit{
+    height: inherit;
+}
+
+.container_s1_premios {
+    height: 13rem;
+}
+
+.mt_container_s1_premios {
+    margin-top: 9rem;
+}
+
+.balon_premios {
+    margin-top: -6.5rem;
+    margin-left: -15rem;
+}
+
+.p_jugada_premios {
+    font-size: 1.4rem;  
+}
+
+.boder_jugadas {
+    border-right-style: solid;
+    border-color: #fff;
+    border-width: 0.1rem;
+}
+
+.img_trofeo_premios {
+    height: 16rem;
+    margin-left: 25rem;
+    margin-top: -5rem;
+}
+
+.mt_descarga_premios {
+    margin-top: 6rem;
+}
+
+.h2_aprovecha_premios {
+    font-size: 2.5rem;
+}
+
 .owl-carousel .owl-item img{
     width: auto !important;
 }
@@ -557,7 +622,7 @@ nav {
     }
     /*ESTILOS PAGINA 2*/
     .container_s2_p2 {
-        height: 74rem;
+        height: fit-content;
         padding-top: 4rem;
     }
     .img_celular_app {
