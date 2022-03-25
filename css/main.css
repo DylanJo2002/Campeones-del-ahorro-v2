@@ -470,6 +470,10 @@ nav {
     margin-top: -31rem;
 }
 
+.container_body_premios{
+    padding-top: 5.5rem;
+}
+
 .owl-carousel .owl-item img{
     width: auto !important;
 }
