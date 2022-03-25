@@ -582,6 +582,13 @@ nav {
     .container_p1_p2 {
         padding-bottom: 6rem;
     }
+    .img_balon_cronometro_p2{
+        margin-left: 0;
+        height: 10rem;
+    }
+    .p_giros_url {
+        font-size: 1rem;
+    }
     
 }
 
