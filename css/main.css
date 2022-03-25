@@ -476,9 +476,9 @@ nav {
 }
 
 @media (max-width: 1199px){
-    .h2_s3 {
+    /* .h2_s3 {
         padding-left: 8rem;
-    }
+    } */
     .img_trofeo {
         margin-left: -23rem;
         margin-top: 2rem;
@@ -555,12 +555,29 @@ nav {
     }
 }
 
+@media (max-width:700px){
+    .img_logo {
+        height: 4rem;
+    }
+    .img_balon {
+        margin-right: -1rem;
+        margin-bottom: -3rem;
+    }
+    .img_silbato {
+        margin-left: -11rem;
+        height: 7rem;
+    }
+    .h2_s3 {
+        font-size: 1.6rem;
+    }
+    .container_seccion_informacion {
+        width: 29rem;
+    }
+}
+
 @media(max-width: 500px){
     .p_s2 {
         font-size: 1rem;
-    }
-    .p_logo {
-        font-size: 0.5rem;
     }
     .img_vigilado {
         height: 5rem;
@@ -581,9 +598,6 @@ nav {
     height: 5rem;
     margin-top: 0rem;
     margin-left: -0.5rem;
-    }
-    .nav_a{
-        font-size: 0.7rem;
     }
     .container_s1_yellow {
         width: 18rem;
@@ -625,15 +639,10 @@ nav {
         font-size: 1rem;
     }
     .h2_s3 {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .container_s3_header {
         height: 8rem;
-    }
-    .img_silbato {
-        margin-left: -6.5rem;
-        margin-top: -5rem;
-        height: 5rem;
     }
     .m_top_8 {
         margin-top: 6rem;
@@ -665,5 +674,48 @@ nav {
         margin-top: 10rem;
         width: 17rem;
         height: 6rem;
+    }
+    .img_silbato {
+        margin-left: -11rem;
+        margin-top: -5rem;
+        height: 6rem;
+    }
+}
+
+@media(max-width: 480px){
+    .img_silbato {
+        margin-left: -10rem;
+        margin-top: -5rem;
+        height: 5rem;
+    }
+}
+
+@media(max-width: 400px){
+    .nav_a {
+        font-size: 1rem;
+    }
+    
+    .p_logo {
+        font-size: 0.8rem;
+    }
+    
+    .img_silbato {
+        margin-left: -8.5rem;
+        height: 5rem;
+        margin-top: -5rem;
+    }
+}
+
+@media(max-width: 399px){
+    .nav_a{
+        font-size: 0.7rem;
+    }
+    .p_logo {
+        font-size: 0.5rem;
+    }
+    .img_silbato {
+        margin-left: -6.5rem;
+        margin-top: -5rem;
+        height: 5rem;
     }
 }
