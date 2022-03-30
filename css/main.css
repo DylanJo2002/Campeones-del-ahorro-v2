@@ -865,3 +865,41 @@ nav {
         height: 5rem;
     }
 }
+
+@media(max-width: 395px){
+    .container_jugadas {
+        margin-top: -29rem;
+    }
+}
+
+@media(max-width: 377px){
+    .container_jugadas_2 {
+        margin-top: -32rem;
+    }
+}
+
+@media(max-width: 369px){
+    .container_jugadas_2 {
+        margin-top: -35rem;
+    }
+}
+
+@media(max-width:357px){
+    .container_jugadas {
+        margin-top: -33rem;
+    }
+    .container_jugadas_2 {
+        margin-top: -38rem;
+    }
+}
+
+@media(max-width: 320px){
+    .container_jugadas {
+        margin-top: -33rem;
+    }
+    
+    .container_jugadas_2 {
+        margin-top: -39rem;
+    }
+    
+}
